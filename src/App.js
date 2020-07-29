@@ -1,7 +1,8 @@
 import React from 'react';
 // import Jsx from './components/Jsx';
 // import Lista from './components/Lista';
-import Formulario from './components/Formulario';
+// import Formulario from './components/Formulario';
+import EjemploUno from './components/EjemploUno';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       {/* <h1>Hola Mundo</h1> */}
       {/* <Jsx /> */}
       {/* <Lista /> */}
-      <Formulario />
+      {/* <Formulario /> */}
+      <EjemploUno />
     </div>
   );
 }
